@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\Task\CurrencyEnum_Indexer\bin\Debug\net6.0\CurrencyEnum_Indexer.exe
+C:\Users\hp\Desktop\Task\CurrencyEnum_Indexer\bin\Debug\net6.0\CurrencyEnum_Indexer.deps.json
+C:\Users\hp\Desktop\Task\CurrencyEnum_Indexer\bin\Debug\net6.0\CurrencyEnum_Indexer.runtimeconfig.json
+C:\Users\hp\Desktop\Task\CurrencyEnum_Indexer\bin\Debug\net6.0\CurrencyEnum_Indexer.dll
+C:\Users\hp\Desktop\Task\CurrencyEnum_Indexer\bin\Debug\net6.0\CurrencyEnum_Indexer.pdb
+C:\Users\hp\Desktop\Task\CurrencyEnum_Indexer\obj\Debug\net6.0\CurrencyEnum_Indexer.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Task\CurrencyEnum_Indexer\obj\Debug\net6.0\CurrencyEnum_Indexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Task\CurrencyEnum_Indexer\obj\Debug\net6.0\CurrencyEnum_Indexer.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Task\CurrencyEnum_Indexer\obj\Debug\net6.0\CurrencyEnum_Indexer.AssemblyInfo.cs
+C:\Users\hp\Desktop\Task\CurrencyEnum_Indexer\obj\Debug\net6.0\CurrencyEnum_Indexer.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Task\CurrencyEnum_Indexer\obj\Debug\net6.0\CurrencyEnum_Indexer.dll
+C:\Users\hp\Desktop\Task\CurrencyEnum_Indexer\obj\Debug\net6.0\refint\CurrencyEnum_Indexer.dll
+C:\Users\hp\Desktop\Task\CurrencyEnum_Indexer\obj\Debug\net6.0\CurrencyEnum_Indexer.pdb
+C:\Users\hp\Desktop\Task\CurrencyEnum_Indexer\obj\Debug\net6.0\CurrencyEnum_Indexer.genruntimeconfig.cache
+C:\Users\hp\Desktop\Task\CurrencyEnum_Indexer\obj\Debug\net6.0\ref\CurrencyEnum_Indexer.dll
